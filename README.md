@@ -7,4 +7,4 @@
 <br>
 <img src="https://github.com/SamuelPitta/-Projeto-Easy-Shopping-Via-Mobile/blob/main/fotocelular.jpg?raw=true">
 <br>
-<img src="https://github.com/SamuelPitta/Easy-Shopping-Via-Mobile/blob/main/Blue%20Illustrative%20Computer%20Parts%20Quiz%20Presentation.png?raw=true">
+<img src="https://github.com/SamuelPitta/-Projeto-Easy-Shopping-Via-Mobile/blob/main/fotosite.png?raw=true">
